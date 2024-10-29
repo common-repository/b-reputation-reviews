@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: B-Reputation Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-28 09:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "B-Reputation Reviews"
+msgstr ""
+
+#: classes/adminsettings.class.php:88
+msgid "B-Reputation reviews settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "carolinebda"
+msgstr ""
+
+#: classes/adminsettings.class.php:31 classes/adminsettings.class.php:64
+msgid "Company Name"
+msgstr ""
+
+#: classes/adminsettings.class.php:77
+msgid ""
+"Copy the following shortcode anywhere into a pages or posts: "
+"[b_reputation_display]"
+msgstr ""
+
+#: classes/adminsettings.class.php:65
+msgid "Enter your company's name"
+msgstr ""
+
+#: classes/adminsettings.class.php:48
+msgid "Enter your company's siren"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.b-reputation.com"
+msgstr ""
+
+#: classes/adminsettings.class.php:29 classes/adminsettings.class.php:47
+msgid "Siren"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"To Collect and display your clients' reviews and testimonials and transform "
+"them into Google stars."
+msgstr ""

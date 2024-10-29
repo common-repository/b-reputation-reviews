@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: B-Reputation Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-28 11:23+0200\n"
+"PO-Revision-Date: 2018-06-29 09:22+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+
+#. Name of the plugin
+msgid "B-Reputation Reviews"
+msgstr "B-Reputation Avis"
+
+#: classes/adminsettings.class.php:88
+msgid "B-Reputation reviews settings"
+msgstr "Réglages de B-Reputation Avis"
+
+#. Author of the plugin
+msgid "carolinebda"
+msgstr "carolinebda"
+
+#: classes/adminsettings.class.php:31 classes/adminsettings.class.php:64
+msgid "Company Name"
+msgstr "Nom de la Société"
+
+#: classes/adminsettings.class.php:77
+msgid ""
+"Copy the following shortcode anywhere into a pages or posts: "
+"[b_reputation_display]"
+msgstr ""
+"Copiez le code ci-dessous et collez le sur les pages ou articles de votre "
+"choix : [b_reputation_display]"
+
+#: classes/adminsettings.class.php:65
+msgid "Enter your company's name"
+msgstr "Entrez le nom de votre Société"
+
+#: classes/adminsettings.class.php:48
+msgid "Enter your company's siren"
+msgstr "Entrez le siren de votre Société"
+
+#. Author URI of the plugin
+msgid "http://www.b-reputation.com"
+msgstr "http://www.b-reputation.com"
+
+#: classes/adminsettings.class.php:29 classes/adminsettings.class.php:47
+msgid "Siren"
+msgstr "Siren"
+
+#. Description of the plugin
+msgid ""
+"To Collect and display your clients' reviews and testimonials and transform "
+"them into Google stars."
+msgstr ""
+"Collectez et mettez en valeur les témoignages de vos clients, puis "
+"transformez-les en étoiles Google."
